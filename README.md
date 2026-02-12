@@ -22,7 +22,7 @@
 - CDK系统
 > 将来的功能（可能不会进行开发）
 - 插件系统 / 主题系统
- 
+
 
 
 
@@ -30,3 +30,9 @@
 ## 许可协议
 使用ZeroDream-CN/SakuraPanel二次开发 https://github.com/ZeroDream-CN/SakuraPanel
 
+
+## 联系我们
+如果你可以提供任何反馈、建议或问题，请联系我们。我们会尽快回复您。
+或参与开发
+
+- 邮箱：[298686268@qq.com](mailto:298686268@qq.com)
