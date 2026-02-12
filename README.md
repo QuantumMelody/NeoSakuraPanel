@@ -1,4 +1,4 @@
-# SakuraPanel
+# NeoSakuraPanel
 樱花内网穿透网页端源代码，2026 版本Neo分支
 
 自动安装程序已完成
