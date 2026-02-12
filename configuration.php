@@ -1,7 +1,7 @@
 <?php
 $_config = Array(
 	
-	/* 站点名称 */ 'sitename'      => 'Sakura Panel',
+	/* 站点名称 */ 'sitename'      => 'Neo Sakura Panel',
 	// 会显示在标题等地方
 	
 	/* 站点简介 */ 'description'   => '内网穿透管理面板',
@@ -12,7 +12,7 @@ $_config = Array(
 	/* 端口 */ 'db_port'           => 3306,
 	/* 账号 */ 'db_user'           => 'root',
 	/* 密码 */ 'db_pass'           => '12345678',
-	/* 名称 */ 'db_name'           => 'spanel',
+	/* 名称 */ 'db_name'           => 'sakura',
 	/* 编码 */ 'db_code'           => 'utf8mb4',
 	
 	// 新注册用户相关设置
@@ -25,7 +25,7 @@ $_config = Array(
 	
 	// 谷歌验证码相关配置
 	'recaptcha' => Array(
-		/* 是否启用 */ 'enable'    => true,
+		/* 是否启用 */ 'enable'    => false,
 		/* 前端密钥 */ 'sitekey'   => '',
 		/* 后端密钥 */ 'sitetoken' => ''
 	),
@@ -42,7 +42,7 @@ $_config = Array(
 	// 邮件功能相关设置
 	// 如果服务器需要 SSL，请在主机地址前面加 ssl://
 	'smtp' => Array(
-		/* 是否启用 */ 'enable'    => true,
+		/* 是否启用 */ 'enable'    => false,
 		/* 主机地址 */ 'host'      => 'smtp.example.com',
 		/* 主机端口 */ 'port'      => 25,
 		/* 发信账号 */ 'user'      => 'noreply@example.com',

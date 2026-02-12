@@ -8,6 +8,12 @@ SESSION_START();
 
 define("ROOT", __DIR__);
 
+
+if(!file_exists(ROOT . "/Install.lock") && basename($_SERVER['SCRIPT_NAME']) !== 'install.php') {
+    header('Location: install.php');
+    exit;
+}
+
 include(ROOT . "/configuration.php");
 include(ROOT . "/core/Database.php");
 include(ROOT . "/core/Regex.php");
