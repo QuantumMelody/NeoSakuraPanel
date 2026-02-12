@@ -13,6 +13,20 @@
 - 实时流量统计
 - 美观的界面
 
+## 接下来的功能
+- configuration 转到数据库 管理员在网站直接管理
+- 邀请系统完善
+- Oauth 登录/本体
+- 套餐系统 
+- 充值系统
+- CDK系统
+> 将来的功能（可能不会进行开发）
+- 插件系统 / 主题系统
+ 
+
+
+
+
 ## 许可协议
 使用ZeroDream-CN/SakuraPanel二次开发 https://github.com/ZeroDream-CN/SakuraPanel
 
